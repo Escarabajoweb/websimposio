@@ -6,10 +6,29 @@
 	<link rel="stylesheet" href="css/ed-grid.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/media.css">
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
 	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
 </head>
 <body>
 	<div class="ed-container total">
+		<div class="menu-coculto ed-container total">
+			<div class="ed-item none tablet-10 web-10 no-padding fondo_menu">
+				<img src="img/logo_simposio_menuestatico.png" alt=""class="imagen">
+			</div>
+			<div class="ed-item base-100 movil-100 tablet-90 web-90 no-padding fondo_gris">
+				<nav class="menu2">
+					<ul>
+						<li><a href=""><i></i>Inicio</a></li>
+						<li><a href=""><i></i>Simposio</a></li>
+						<li><a href=""><i></i>Conferencias</a></li>
+						<li><a href=""><i></i>Programación</a></li>
+						<li><a href=""><i></i>Inscripción</a></li>
+						<li><a href=""><i></i>Sede</a></li>
+						<li><a href=""><i></i>Contacto</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
 		<div class="ed-item none tablet-30 web-30 no-padding">
 			<img src="img/cabezote_logo.png" alt="" class="total">
 		</div>
@@ -132,4 +151,6 @@
 		</div>
 	</div>
 </body>
+<script src="js/jquery.js"></script>
+<script src="js/main.js"></script>
 </html>
