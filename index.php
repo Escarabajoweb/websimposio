@@ -5,6 +5,8 @@
 	<title>Popurri</title>
 	<link rel="stylesheet" href="css/ed-grid.css">
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/media.css">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
 </head>
 <body>
 	<div class="ed-container total">
@@ -88,10 +90,45 @@
 				</div>
 				<div class="j-separator-60 total"></div>
 			</div>
-
 		</div>
 		<div class="ed-item base-100 movil-100 tablet-30 web-30 no-padding">
 			<img src="img/redes.jpg" alt="">
+		</div>
+		<div class="ed-container ancho">
+			<div class="logos"><a href=""><img src="img/logo.jpg" alt=""></a></div>
+			<div class="logos"><a href=""><img src="img/logo.jpg" alt=""></a></div>
+			<div class="logos"><a href=""><img src="img/logo.jpg" alt=""></a></div>
+			<div class="logos"><a href=""><img src="img/logo.jpg" alt=""></a></div>
+			<div class="logos"><a href=""><img src="img/logo.jpg" alt=""></a></div>
+			<div class="logos"><a href=""><img src="img/logo.jpg" alt=""></a></div>
+			<div class="j-separator-40 total"></div>
+		</div>
+		<div class="ed-container total fondo_footer">
+			<div class="j-separator-60 total"></div>
+			<div class="ed-item base-100 movil-100 tablet-1-3 web-1-3">
+				<img src="img/logo_udea.png" alt="" class="centrado">
+			</div>
+			<div class="ed-item base-100 movil-100 tablet-1-3 web-1-3">
+				<div class="j-separator-40 total"></div>
+				<ul class="redes">
+					<a href="">
+						<li id="face"></li>
+					</a>
+					<a href="">
+						<li id="youtube"></li>
+					</a>
+					<a href="">
+						<li id="twitter"></li>
+					</a>
+				</ul>
+			</div>
+			<div class="ed-item base-100 movil-100 tablet-1-3 web-1-3">
+				<img src="img/logo_simposio_blanco.png" alt="" class="centrado">
+				<span class="blanco">Teléfono: ++++++</span>
+				<span class="blanco">Contacto: ++++</span>
+				<span class="blanco">Correo: +++++</span>
+			</div>
+			<div class="j-separator-60 total"></div>
 		</div>
 	</div>
 </body>

@@ -1,0 +1,25 @@
+@media (max-width: 350px) {
+	.menu ul li {
+	    margin: 0;
+	}
+	.menu ul li a {
+	    padding: 0;
+	    font-size: 12px;
+	}
+	.borde {
+	    border-left: 0px;
+	    padding: 0;
+	}
+	.redes{
+		padding: 0;
+	}
+	.redes a li {
+	    width: 82px;
+	}
+}
+@media (max-width: 750px){
+	.borde {
+	    border-left: 0px;
+	    padding: 0;
+	}
+}

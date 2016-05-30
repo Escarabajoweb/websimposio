@@ -87,3 +87,41 @@ h2.editorial span {
     letter-spacing: 2px;
     color: #fff;
 }
+.logos{
+	display: flex;
+	width: 16.6666%;
+}
+.ancho{
+	max-width: 800px !important;
+}
+img.centrado {
+    display: block;
+    margin: 0 auto;
+}
+.fondo_footer{
+	background-color: #959099;	
+}
+.blanco {
+    color: #fff;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+.redes{
+	text-align: center;
+}
+.redes a{
+	display: inline-block;
+}
+.redes a li {
+    background-image: url(../img/redes.png);
+    width: 95px;
+    height: 74px;
+    list-style: none;
+}
+#youtube {
+    background-position: -80px;
+}
+#twitter{
+	background-position: -160px;
+}
